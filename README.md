@@ -1,2 +1,2 @@
-# decision_helper
-social network for make hard decisions easier
+# Decision Helper
+Social network for make hard decisions easier.
