@@ -1,2 +1,2 @@
 # Decision Helper
-Social network for make hard decisions easier.
+Social network to make hard decisions easier.
